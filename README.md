@@ -4,7 +4,7 @@ HTML
 
 CSS
 
-- Bootstrap
+- Bootstrap [x]
 
 JavaScript / Typescript
 
