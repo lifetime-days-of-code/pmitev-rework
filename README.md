@@ -8,7 +8,7 @@ CSS
 
 [x] JavaScript / Typescript 
 
-Jest
+[x] Mocha
 
 [x] JsDocs  
 

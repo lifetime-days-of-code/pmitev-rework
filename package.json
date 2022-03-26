@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha assets/test"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "jsdoc": "^3.6.10",
+    "mocha": "^9.2.2",
     "ts-loader": "^9.2.8",
     "typescript": "^4.6.3",
     "webpack": "^5.70.0",
