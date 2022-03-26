@@ -4,22 +4,22 @@ HTML
 
 CSS
 
-- Bootstrap [x]
+[x] - Bootstrap 
 
-JavaScript / Typescript
+[x] JavaScript / Typescript 
 
 Jest
 
-JsDocs
+[x] JsDocs  
 
 c4model
 
 Figma
 
-Git
+[x] Git
 
 Github
 
-Webpack
+[x] Webpack 
 
 Netlify || Cloudflare
