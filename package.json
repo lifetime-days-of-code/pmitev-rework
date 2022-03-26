@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha assets/test"
+    "test": "mocha assets/test",
+    "ts-lint":"tslint -p . -c tslint.json"
   },
   "keywords": [],
   "author": "",

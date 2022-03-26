@@ -12,6 +12,8 @@ CSS
 
 [x] JsDocs  
 
+[x] TSLint
+
 c4model
 
 Figma
